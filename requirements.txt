@@ -1,0 +1,8 @@
+pandas
+torch # CUDA Support needed 
+tiktoken
+datasets
+numpy
+tqdm
+matplotlib
+jupyterlab
